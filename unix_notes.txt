@@ -5,6 +5,8 @@
 
 # unstaged/untracted (ADD ->) staged (COMMIT ->) commited (modify -> dIRTY) unstaged/untracted etc. etc.
 
+# display hidden files and hidden directories
+ls -a
 
 mv
 #replace or move

@@ -1,3 +1,34 @@
+#Version Control
+#1) backup
+#2) sharing data
+#3) collaboration
+
+# unstaged/untracted (ADD ->) staged (COMMIT ->) commited (modify -> dIRTY) unstaged/untracted etc. etc.
+
+
+mv
+#replace or move
+
+
+# Change directory to home directory
+
+$ history > moving_around.txt
+
+# takes history and commits it to a Sublime text file (new if there is no existing one)
+
+history | less
+
+# lists history in a more discrete list
+
+
+clear
+
+# clears text on page
+
+.
+
+#current directory
+
 $ history > moving_around.txt
 history | less
 history
@@ -32,7 +63,7 @@ fish_update_completions
 curl -fsSL http://git.io/beJs | ruby
 curl -fsSL http://git.io/QxUaOQ | sh
 curl -fsSL http://git.io/7UHtNA | sh
-git config --global user.name 
+git config --global user.name
 git config --global user.email
 git config --global user.email 'msudha10.uw@gmail.com'
 git config --global user.email 'msudha1.uw@gmail.com'
@@ -51,12 +82,12 @@ ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/lo
 /Applications/
 subkl
 ln -s /Applications/Sublime\ Text.app/
-ln -s /Applications/Sublime\ 
+ln -s /Applications/Sublime\
 which subl
-which 
+which
 which
 whi
-brew in 
+brew in
 brew info fish
 which fish
 brew in
@@ -71,10 +102,10 @@ uname
 git credential-osxkeychain
 git config --global user.email "msudha10.uw@gmail.com"
 git config --global user.name "Madura Sudharsanan"
-ls -l moving_around.txt 
+ls -l moving_around.txt
 ls -l
-ls moving_around.txt 
-subl moving_around.txt 
+ls moving_around.txt
+subl moving_around.txt
 ls -t
 ls
 $ history > moving_around.txt
@@ -108,7 +139,7 @@ fish_update_completions
 curl -fsSL http://git.io/beJs | ruby
 curl -fsSL http://git.io/QxUaOQ | sh
 curl -fsSL http://git.io/7UHtNA | sh
-git config --global user.name 
+git config --global user.name
 git config --global user.email
 git config --global user.email 'msudha10.uw@gmail.com'
 git config --global user.email 'msudha1.uw@gmail.com'
@@ -127,12 +158,12 @@ ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/lo
 /Applications/
 subkl
 ln -s /Applications/Sublime\ Text.app/
-ln -s /Applications/Sublime\ 
+ln -s /Applications/Sublime\
 which subl
-which 
+which
 which
 whi
-brew in 
+brew in
 brew info fish
 which fish
 brew in

@@ -1,0 +1,149 @@
+$ history > moving_around.txt
+history | less
+history
+cd ~
+cd ..
+..
+/
+cd Accounts/
+ls
+cd Library/
+cd Lib
+cd
+pwd
+cd Desktop/
+cd Desk
+cd data/
+ls -l
+ls -Sl
+ls -Sls
+ls -S
+man s
+man S
+man ls
+ls -rtl
+ls -rt
+ls -r
+ls -lt
+ls -l;
+ls -t
+cd /
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.name 
+git config --global user.email
+git config --global user.email 'msudha10.uw@gmail.com'
+git config --global user.email 'msudha1.uw@gmail.com'
+git config --global user.name 'Madura Sudharsanan'
+git config --global user.email 'YOUR EMAIL ADDRESS'
+git config --global user.name 'YOUR FULL NAME'
+git --version
+brew install git
+brew install fish
+echo $PATH
+subl /etc/paths
+echo $EDITOR
+subl ~/.config/fish/config.fish
+subl
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+/Applications/
+subkl
+ln -s /Applications/Sublime\ Text.app/
+ln -s /Applications/Sublime\ 
+which subl
+which 
+which
+whi
+brew in 
+brew info fish
+which fish
+brew in
+echo $SHELL
+chsh -s /usr/local/bin/fish
+brew isntall fish
+brew update
+brew doctor
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+ls -G
+uname
+git credential-osxkeychain
+git config --global user.email "msudha10.uw@gmail.com"
+git config --global user.name "Madura Sudharsanan"
+ls -l moving_around.txt 
+ls -l
+ls moving_around.txt 
+subl moving_around.txt 
+ls -t
+ls
+$ history > moving_around.txt
+history | less
+history
+cd ~
+cd ..
+..
+/
+cd Accounts/
+cd Library/
+cd Lib
+cd
+pwd
+cd Desktop/
+cd Desk
+cd data/
+ls -Sl
+ls -Sls
+ls -S
+man s
+man S
+man ls
+ls -rtl
+ls -rt
+ls -r
+ls -lt
+ls -l;
+cd /
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.name 
+git config --global user.email
+git config --global user.email 'msudha10.uw@gmail.com'
+git config --global user.email 'msudha1.uw@gmail.com'
+git config --global user.name 'Madura Sudharsanan'
+git config --global user.email 'YOUR EMAIL ADDRESS'
+git config --global user.name 'YOUR FULL NAME'
+git --version
+brew install git
+brew install fish
+echo $PATH
+subl /etc/paths
+echo $EDITOR
+subl ~/.config/fish/config.fish
+subl
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+/Applications/
+subkl
+ln -s /Applications/Sublime\ Text.app/
+ln -s /Applications/Sublime\ 
+which subl
+which 
+which
+whi
+brew in 
+brew info fish
+which fish
+brew in
+echo $SHELL
+chsh -s /usr/local/bin/fish
+brew isntall fish
+brew update
+brew doctor
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+ls -G
+uname
+git credential-osxkeychain
+git config --global user.email "msudha10.uw@gmail.com"
+git config --global user.name "Madura Sudharsanan"

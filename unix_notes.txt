@@ -5,6 +5,42 @@
 
 # unstaged/untracted (ADD ->) staged (COMMIT ->) commited (modify -> dIRTY) unstaged/untracted etc. etc.
 
+#see what branch you are on
+
+git branch
+
+#select what branch you would like to be on
+
+git checkout git-notes
+
+#create new git branch called git- notes
+
+git branch git-notes
+
+#add then commit version of unix_notes
+
+git commit -m "Add comment about displaying hidden files"
+git add unix_notes.txt
+git log
+git status
+git diff -- staged
+git diff --staged
+git diff unix_notes.txt
+git diff
+git commit -m "Add second version of unix notes"
+subl unix_notes.txt
+git commit -m "Add initial version of unix notes"
+ls
+cd ..
+cd .git
+ls -a
+
+#initiates git repository
+
+git init
+
+
+
 # display hidden files and hidden directories
 ls -a
 
